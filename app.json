@@ -54,7 +54,7 @@
     "LAZY_DEVELOPER": {
       "description": "Give ADMIN id in this field ",
       "value": "",
-      "required": true
+      "required": false
     }
   },
   "addons": [
